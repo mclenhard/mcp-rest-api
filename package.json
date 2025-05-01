@@ -21,7 +21,8 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
-    "axios": "^1.7.9"
+    "axios": "^1.7.9",
+    "mcp-evals": "^1.0.18"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
